@@ -1,7 +1,7 @@
 Objective Outline - lovethedeck.com.au
 ===
 
-### **Migration of content from WordPress to Grav CMS**
+### Objective: **Migration of content from WordPress to Grav CMS**
 
 | Hours | Tasks |
 | ----- | ----- |
@@ -11,7 +11,7 @@ Objective Outline - lovethedeck.com.au
 | **11h** | *Total* |
 
 
-### **Expand "What We Do" section so client can add/remove simple text and image combos (which resize appropriately for mobile). Either text right side / image left and vice versa**
+### Objective: **Expand "What We Do" section so client can add/remove simple text and image combos (which resize appropriately for mobile). Either text right side / image left and vice versa**
 #### - *Create modular home page using Grav's content modules to accommodate existing sections: "What We Do", "Testimonials", "Get In Touch"*
 | Hours | Tasks |
 | ----- | ----- |
@@ -23,7 +23,7 @@ Objective Outline - lovethedeck.com.au
 | **4h** | *Total* |
 
 
-### **Keep the carousel for the hero image (just below header)**
+### Objective: **Keep the carousel for the hero image (just below header)**
 #### - *Add "Hero Gallery" module with asset rendering template to allow uploads of featured work to be displayed on a single slide full size hero module carousel at top of home page.*
 | Hours | Tasks |
 | ----- | ----- |
@@ -32,7 +32,7 @@ Objective Outline - lovethedeck.com.au
 | **1.5h** | *Total* |
 
 
-### **Keep the Before and After / Testimonials / Contact all as is (Including carousels)**
+### Objective: **Keep the Before and After / Testimonials / Contact all as is (Including carousels)**
 #### - *Add "Testimonials" content module that renders testimonial cards in a multi-item carousel; each card will display an avatar image, heading that cites name and location of testimonial submitted, and a blockquote of the testimonial's text.*
 | Hours | Tasks |
 | ----- | ----- |
@@ -41,7 +41,7 @@ Objective Outline - lovethedeck.com.au
 | **1.5h** | *Total* |
 
 
-### **Add a blog/news section that just displays the latest blog article, along with a link to reveal more posts (ie a blog feed) on separate page, under menu item "News"**
+### Objective: **Add a blog/news section that just displays the latest blog article, along with a link to reveal more posts (ie a blog feed) on separate page, under menu item "News"**
 #### - *Add "News / Updates" content module below "Testimonials" that renders a featured post from blog (most recent, unless otherwise tagged as featured or sticky by client) along with a link to reveal more posts on a separate page titled "News"*
 | Hours | Tasks |
 | ----- | ----- |
