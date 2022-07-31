@@ -7,7 +7,7 @@ Objective Outline - lovethedeck.com.au
 | ----- | ----- |
 | 2h | Install & configure Grav CMS on server using Composer package manager via SSH |
 | 1h | Export data from existing WordPress admin, import into Grav CMS |
-| 8h | Style pages and configure Twig templates for pages and components |
+| 8h | CSS/JS styling of Twig templates to meet existing theme visual and mobile responsivity standards |
 | **11h** | *Total* |
 
 
